@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Training Test Suite" verbose="1">
+    
+    <!-- Selenium Tests -->
+    <test name="Selenium Tests" preserve-order="true">
+        <classes>
+            <class name="com.aw.automationtraining.selenium.ExampleOrgTest"/>
+        </classes>
+    </test>
+    
+    <!-- Rest Assured Tests -->
+    <test name="Rest Assured Tests" preserve-order="true">
+        <classes>
+            <class name="com.aw.automationtraining.restassured.ReqResApiTest"/>
+        </classes>
+    </test>
+    
+</suite>
