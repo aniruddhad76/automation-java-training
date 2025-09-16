@@ -2,7 +2,6 @@ package com.aw.automationtraining;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.TimeUnit;
 
 /**
  * Demonstrates how Java fundamentals apply to automation testing
