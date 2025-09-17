@@ -17,8 +17,8 @@ public class ExpressionsA2 {
 
         System.out.println("String Expression");
 		// String Expression
-		String firstName = "Swapnil";
-		String lastName = "Kamble";
+		String firstName = "Aniruddha";
+		String lastName = "Dixit";
 		String fullName = firstName + " " + lastName;
 		System.out.println("Full Name = " + fullName);
 
