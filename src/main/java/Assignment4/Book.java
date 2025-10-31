@@ -2,9 +2,6 @@ package Assignment4;
 
 /**
  * Problem 11: Book class
- * Fields: 'title', 'author'.
- * Method: 'showInfo()'.
- * Create 3 book objects and print their info.
  */
 public class Book {
     // Fields
