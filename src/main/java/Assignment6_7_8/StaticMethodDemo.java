@@ -1,4 +1,4 @@
-package Assignment6;
+package Assignment6_7_8;
 
 // 3. Static Method Demo
 

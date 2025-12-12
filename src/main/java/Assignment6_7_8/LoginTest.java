@@ -1,4 +1,4 @@
-package Assignment6;
+package Assignment6_7_8;
 
 public class LoginTest extends BaseTest {
     // Try to override setup() - this will cause a compiler error
